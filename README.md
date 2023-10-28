@@ -1,6 +1,8 @@
 # esp32-relay-board
 WeMos D1 Mini ESP32 Relay Board
 
+![Board](board.png)
+
 # BOM
 
 |Line|Name               |Designator                     |Footprint                           |Quantity|
@@ -23,3 +25,10 @@ WeMos D1 Mini ESP32 Relay Board
 |16  |470                |R3,R5,R7,R9,R11,R17,R20        |R0603                               |7       |
 |17  |5V RELAY           |RLY1,RLY2,RLY3,RLY4,RLY5,RLY6  |RELAY-TH_RELAY-SPST                 |6       |
 |18  |LM2596SX-5.0/NOPB  |U1                             |TO-263-5_L10.2-W8.9-P1.70-TL        |1       |
+
+# Schematics
+![Schematics](schematics.pdf)
+
+
+# Links:
+https://oshwlab.com/fellowgeek/esp-relay-board
