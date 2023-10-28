@@ -20,9 +20,9 @@ This WeMos D1 Mini ESP32 Relay Board features 6 channels and is compatible with 
 |11  |Header 6x1         |PH1                            |PINHEADER_06X1                      |1       |
 |12  |POWER-JACK         |PWR                            |DC-IN-TH_POWER-JACK                 |1       |
 |13  |AO3400A            |Q1,Q2,Q3,Q4,Q5,Q6,Q9,Q10       |SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR   |8       |
-|14  |470                |R1                             |R0603                               |1       |
+|14  |470Ω               |R1                             |R0603                               |1       |
 |15  |470Ω               |R2,R4,R6,R8,R10,R12,R18,R19    |R0603                               |8       |
-|16  |470                |R3,R5,R7,R9,R11,R17,R20        |R0603                               |7       |
+|16  |470Ω               |R3,R5,R7,R9,R11,R17,R20        |R0603                               |7       |
 |17  |5V RELAY           |RLY1,RLY2,RLY3,RLY4,RLY5,RLY6  |RELAY-TH_RELAY-SPST                 |6       |
 |18  |LM2596SX-5.0/NOPB  |U1                             |TO-263-5_L10.2-W8.9-P1.70-TL        |1       |
 
@@ -31,4 +31,4 @@ This WeMos D1 Mini ESP32 Relay Board features 6 channels and is compatible with 
 
 # Links:
 
-Open Source Hardware Lap project: https://oshwlab.com/fellowgeek/esp-relay-board
+Open Source Hardware Lab project: https://oshwlab.com/fellowgeek/esp-relay-board
