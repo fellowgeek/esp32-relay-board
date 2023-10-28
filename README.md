@@ -1,5 +1,5 @@
 # WeMos D1 Mini ESP32 Relay Board
-This WeMos D1 Mini ESP32 Relay Board features 8 channels and is compatible with both 24V AC and 5V DC power sources. Specifically designed as a seamless replacement for sprinkler controller systems, this board offers straightforward configurability using jumpers. These jumpers provide the flexibility to set it up as either standalone relays or common input relays, making it an adaptable solution for various applications.
+This WeMos D1 Mini ESP32 Relay Board features 6 channels and is compatible with both 24V AC and 5V DC power sources. Specifically designed as a seamless replacement for sprinkler controller systems, this board offers straightforward configurability using jumpers. These jumpers provide the flexibility to set it up as either standalone relays or common input relays, making it an adaptable solution for various applications.
 
 ![Board](board.png)
 
