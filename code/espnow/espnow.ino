@@ -9,12 +9,12 @@ example (assuming your device's MAC address is aa:bb:cc:11:22:33):
 uint8_t broadcastAddress[] = {0xff, 0xff, 0xff, 0xff, 0xff, 0xff};
 
 // send the sommand to activate relay 1
-String message = ">aa:bb:cc:11:22:33,RLC1,1";
+String message = ">aa:bb:cc:11:22:33,RLC1,1<";
 message.toCharArray(payload, message.length() + 1);
 esp_now_send(broadcastAddress, (uint8_t *) &payload, sizeof(payload));
 
 // send the sommand to perform a board test
-String message = ">aa:bb:cc:11:22:33,TEST";
+String message = ">aa:bb:cc:11:22:33,TEST<";
 message.toCharArray(payload, message.length() + 1);
 esp_now_send(broadcastAddress, (uint8_t *) &payload, sizeof(payload));
 
