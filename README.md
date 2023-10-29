@@ -1,5 +1,5 @@
-# WeMos D1 Mini ESP32 Relay Board
-This WeMos D1 Mini ESP32 Relay Board features 6 channels and is compatible with both 24V AC and 5V DC power sources. Specifically designed as a seamless replacement for sprinkler controller systems, this board offers straightforward configurability using jumpers. These jumpers provide the flexibility to set it up as either standalone relays or common input relays, making it an adaptable solution for various applications.
+# ESP32 Relay Board
+This [WeMos D1 Mini ESP32](https://www.amazon.com/DORHEA-Bluetooth-Internet-Development-Functional/dp/B08ND91YB8/) Relay Board features 6 channels and is compatible with both 24V AC and 5V DC power sources. Specifically designed as a seamless replacement for sprinkler controller systems, this board offers straightforward configurability using jumpers. These jumpers provide the flexibility to set it up as either standalone relays or common input relays, making it an adaptable solution for various applications.
 
 ![Board](board.png)
 
@@ -12,7 +12,7 @@ This WeMos D1 Mini ESP32 Relay Board features 6 channels and is compatible with 
 |3   |1X3                |CN1,CN2,CN3,CN4,CN5,CN6,CN7,CN8|TERMINAL-BLOCK 3.5X3                |8       |
 |4   |SS24               |D1,D2,D9                       |SMA_L4.3-W2.6-LS5.2-RD              |3       |
 |5   |DIODE              |D3,D4,D5,D6,D7,D8              |DO-214AC_L4.3-W2.7-LS5.3-RD         |6       |
-|6   |WEMOS-D1-MINI-ESP32|IC1                            |WEMOS-D1-MINI-ESP32                 |1       |
+|6   |[WEMOS-D1-MINI-ESP32](https://www.amazon.com/DORHEA-Bluetooth-Internet-Development-Functional/dp/B08ND91YB8/)|IC1                            |WEMOS-D1-MINI-ESP32                 |1       |
 |7   |Jumper             |J1,J2,J3,J4,J5,J6,J7,J8,RX,TX  |HDR-TH_2P-P2.54-V-M-1               |10      |
 |8   |33uH               |L1                             |IND-SMD_L12.3-W12.3                 |1       |
 |9   |17-21SUYC/TR8      |LED1,LED2,LED3,LED4,LED5,LED6  |LED0805-R-RD                        |6       |
